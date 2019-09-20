@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/people-app/static/css/main.70709f4f.chunk.css",
+    "main.js": "/people-app/static/js/main.22a5dcab.chunk.js",
+    "main.js.map": "/people-app/static/js/main.22a5dcab.chunk.js.map",
+    "runtime-main.js": "/people-app/static/js/runtime-main.d6958929.js",
+    "runtime-main.js.map": "/people-app/static/js/runtime-main.d6958929.js.map",
+    "static/js/2.ef8f9838.chunk.js": "/people-app/static/js/2.ef8f9838.chunk.js",
+    "static/js/2.ef8f9838.chunk.js.map": "/people-app/static/js/2.ef8f9838.chunk.js.map",
+    "index.html": "/people-app/index.html",
+    "precache-manifest.805b7c4eb1d3354d07fcbc5fbef3771b.js": "/people-app/precache-manifest.805b7c4eb1d3354d07fcbc5fbef3771b.js",
+    "service-worker.js": "/people-app/service-worker.js",
+    "static/css/main.70709f4f.chunk.css.map": "/people-app/static/css/main.70709f4f.chunk.css.map"
+  }
+}
