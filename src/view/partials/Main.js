@@ -8,7 +8,7 @@ const Main = (props) => {
 
     return (
 
-        <div className="container main-holder">
+        <div className="container ">
             <div className="row">
 
                 <div className="container-fluid search-holder">

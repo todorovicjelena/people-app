@@ -134,7 +134,9 @@ header a:hover {
 
 .users-holder {
   margin-top: 20px;
+  margin-bottom: 100px;
 }
+
 .users-holder-card {
   display: flex;
   flex-wrap: wrap;
@@ -203,6 +205,10 @@ footer p {
   position: relative;
   height: 56%;
 } 
+
+.container {
+  margin-bottom: 100px;
+}
 
 /*************************************loader*************************************/
 
@@ -288,4 +294,11 @@ footer p {
       width: 50px;
       height: 50px;
   }
+  .users-holder {
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.col-12 {
+  margin-bottom: 100px;
+}
 }
